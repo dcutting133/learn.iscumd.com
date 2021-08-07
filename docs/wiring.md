@@ -1,3 +1,8 @@
+---
+layout: default
+title: Electrical Wiring
+parent: Documentation
+---
 # Wiring
 
 This page is a simple walkthrough of all the basics for wiring. Most of the useful things related to wires and how to use them will be outlined here in this document.
